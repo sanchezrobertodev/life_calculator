@@ -1,0 +1,1007 @@
+{
+  "Afghanistan": {
+    "AVG": 65.98,
+    "Female": 67.59,
+    "Male": 64.47
+  },
+  "Albania": {
+    "AVG": 78.96,
+    "Female": 80.48,
+    "Male": 77.48
+  },
+  "Algeria": {
+    "AVG": 77.5,
+    "Female": 78.76,
+    "Male": 76.3
+  },
+  "Angola": {
+    "AVG": 62.22,
+    "Female": 65.12,
+    "Male": 59.46
+  },
+  "Antigua and Barbuda": {
+    "AVG": 77.47,
+    "Female": 78.58,
+    "Male": 76.26
+  },
+  "Argentina": {
+    "AVG": 77.17,
+    "Female": 80.42,
+    "Male": 73.82
+  },
+  "Armenia": {
+    "AVG": 75.55,
+    "Female": 78.9,
+    "Male": 71.82
+  },
+  "Aruba": {
+    "AVG": 76.79,
+    "Female": 79.1,
+    "Male": 74.26
+  },
+  "Australia": {
+    "AVG": 83.94,
+    "Female": 85.8,
+    "Male": 82.08
+  },
+  "Austria": {
+    "AVG": 82.05,
+    "Female": 84.19,
+    "Male": 79.88
+  },
+  "Azerbaijan": {
+    "AVG": 73.33,
+    "Female": 75.87,
+    "Male": 70.76
+  },
+  "Bahamas": {
+    "AVG": 74.28,
+    "Female": 76.51,
+    "Male": 71.95
+  },
+  "Bahrain": {
+    "AVG": 77.73,
+    "Female": 78.88,
+    "Male": 76.87
+  },
+  "Bangladesh": {
+    "AVG": 73.57,
+    "Female": 75.6,
+    "Male": 71.8
+  },
+  "Barbados": {
+    "AVG": 79.64,
+    "Female": 80.85,
+    "Male": 78.36
+  },
+  "Belarus": {
+    "AVG": 75.2,
+    "Female": 79.9,
+    "Male": 70.15
+  },
+  "Belgium": {
+    "AVG": 82.17,
+    "Female": 84.31,
+    "Male": 80
+  },
+  "Belize": {
+    "AVG": 75.09,
+    "Female": 78.25,
+    "Male": 72.14
+  },
+  "Benin": {
+    "AVG": 62.84,
+    "Female": 64.45,
+    "Male": 61.23
+  },
+  "Bhutan": {
+    "AVG": 72.77,
+    "Female": 73.33,
+    "Male": 72.27
+  },
+  "Bolivia": {
+    "AVG": 72.35,
+    "Female": 75.35,
+    "Male": 69.5
+  },
+  "Bosnia and Herzegovina": {
+    "AVG": 77.93,
+    "Female": 80.32,
+    "Male": 75.48
+  },
+  "Botswana": {
+    "AVG": 69.86,
+    "Female": 72.69,
+    "Male": 66.72
+  },
+  "Brazil": {
+    "AVG": 76.57,
+    "Female": 80.14,
+    "Male": 73.01
+  },
+  "Brunei": {
+    "AVG": 76.35,
+    "Female": 77.64,
+    "Male": 75.17
+  },
+  "Bulgaria": {
+    "AVG": 75.49,
+    "Female": 79.06,
+    "Male": 72.05
+  },
+  "Burkina Faso": {
+    "AVG": 62.98,
+    "Female": 63.78,
+    "Male": 62.06
+  },
+  "Burundi": {
+    "AVG": 62.71,
+    "Female": 64.56,
+    "Male": 60.85
+  },
+  "Cabo Verde": {
+    "AVG": 73.58,
+    "Female": 76.83,
+    "Male": 70.15
+  },
+  "Cambodia": {
+    "AVG": 70.54,
+    "Female": 72.69,
+    "Male": 68.2
+  },
+  "Cameroon": {
+    "AVG": 60.32,
+    "Female": 61.66,
+    "Male": 58.99
+  },
+  "Canada": {
+    "AVG": 82.96,
+    "Female": 84.74,
+    "Male": 81.15
+  },
+  "Central African Republic": {
+    "AVG": 54.36,
+    "Female": 56.58,
+    "Male": 52.16
+  },
+  "Chad": {
+    "AVG": 55.17,
+    "Female": 56.65,
+    "Male": 53.73
+  },
+  "Channel Islands": {
+    "AVG": 83.6,
+    "Female": 85.31,
+    "Male": 81.82
+  },
+  "Chile": {
+    "AVG": 80.74,
+    "Female": 82.8,
+    "Male": 78.54
+  },
+  "China": {
+    "AVG": 77.47,
+    "Female": 79.73,
+    "Male": 75.36
+  },
+  "Colombia": {
+    "AVG": 77.87,
+    "Female": 80.54,
+    "Male": 75.18
+  },
+  "Comoros": {
+    "AVG": 65.03,
+    "Female": 66.88,
+    "Male": 63.24
+  },
+  "Congo": {
+    "AVG": 65.21,
+    "Female": 66.73,
+    "Male": 63.67
+  },
+  "Costa Rica": {
+    "AVG": 80.94,
+    "Female": 83.39,
+    "Male": 78.53
+  },
+  "Côte d'Ivoire": {
+    "AVG": 58.75,
+    "Female": 60.13,
+    "Male": 57.5
+  },
+  "Croatia": {
+    "AVG": 79.02,
+    "Female": 82.02,
+    "Male": 75.95
+  },
+  "Cuba": {
+    "AVG": 79.18,
+    "Female": 81.12,
+    "Male": 77.25
+  },
+  "Curaçao": {
+    "AVG": 79.41,
+    "Female": 82.08,
+    "Male": 76.42
+  },
+  "Cyprus": {
+    "AVG": 81.51,
+    "Female": 83.45,
+    "Male": 79.55
+  },
+  "Czech Republic (Czechia)": {
+    "AVG": 79.85,
+    "Female": 82.35,
+    "Male": 77.33
+  },
+  "Denmark": {
+    "AVG": 81.4,
+    "Female": 83.27,
+    "Male": 79.54
+  },
+  "Djibouti": {
+    "AVG": 67.87,
+    "Female": 70.16,
+    "Male": 65.84
+  },
+  "Dominican Republic": {
+    "AVG": 74.65,
+    "Female": 77.9,
+    "Male": 71.58
+  },
+  "DR Congo": {
+    "AVG": 61.6,
+    "Female": 63.21,
+    "Male": 60.01
+  },
+  "Ecuador": {
+    "AVG": 77.71,
+    "Female": 80.45,
+    "Male": 75.05
+  },
+  "Egypt": {
+    "AVG": 72.54,
+    "Female": 74.95,
+    "Male": 70.23
+  },
+  "El Salvador": {
+    "AVG": 74.06,
+    "Female": 78.48,
+    "Male": 69.27
+  },
+  "Equatorial Guinea": {
+    "AVG": 59.82,
+    "Female": 61.08,
+    "Male": 58.76
+  },
+  "Eritrea": {
+    "AVG": 67.48,
+    "Female": 69.75,
+    "Male": 65.26
+  },
+  "Estonia": {
+    "AVG": 79.18,
+    "Female": 83.06,
+    "Male": 74.98
+  },
+  "Eswatini": {
+    "AVG": 61.05,
+    "Female": 65.67,
+    "Male": 56.98
+  },
+  "Ethiopia": {
+    "AVG": 67.81,
+    "Female": 69.8,
+    "Male": 65.86
+  },
+  "Fiji": {
+    "AVG": 67.91,
+    "Female": 69.97,
+    "Male": 66
+  },
+  "Finland": {
+    "AVG": 82.48,
+    "Female": 85.14,
+    "Male": 79.82
+  },
+  "France": {
+    "AVG": 83.13,
+    "Female": 85.82,
+    "Male": 80.32
+  },
+  "French Guiana": {
+    "AVG": 80.53,
+    "Female": 83.38,
+    "Male": 77.8
+  },
+  "French Polynesia": {
+    "AVG": 78.23,
+    "Female": 80.41,
+    "Male": 76.23
+  },
+  "Gabon": {
+    "AVG": 67.03,
+    "Female": 69.27,
+    "Male": 64.93
+  },
+  "Gambia": {
+    "AVG": 63.26,
+    "Female": 64.73,
+    "Male": 61.8
+  },
+  "Georgia": {
+    "AVG": 74.24,
+    "Female": 78.54,
+    "Male": 69.85
+  },
+  "Germany": {
+    "AVG": 81.88,
+    "Female": 84.14,
+    "Male": 79.62
+  },
+  "Ghana": {
+    "AVG": 64.94,
+    "Female": 66.13,
+    "Male": 63.78
+  },
+  "Greece": {
+    "AVG": 82.8,
+    "Female": 85.08,
+    "Male": 80.52
+  },
+  "Grenada": {
+    "AVG": 72.59,
+    "Female": 75.16,
+    "Male": 70.24
+  },
+  "Guadeloupe": {
+    "AVG": 82.74,
+    "Female": 85.94,
+    "Male": 79.16
+  },
+  "Guam": {
+    "AVG": 80.74,
+    "Female": 83.98,
+    "Male": 77.63
+  },
+  "Guatemala": {
+    "AVG": 75.05,
+    "Female": 77.89,
+    "Male": 72.14
+  },
+  "Guinea": {
+    "AVG": 62.64,
+    "Female": 63.25,
+    "Male": 61.79
+  },
+  "Guinea-Bissau": {
+    "AVG": 59.38,
+    "Female": 61.33,
+    "Male": 57.31
+  },
+  "Guyana": {
+    "AVG": 70.26,
+    "Female": 73.53,
+    "Male": 67.22
+  },
+  "Haiti": {
+    "AVG": 64.99,
+    "Female": 67.21,
+    "Male": 62.77
+  },
+  "Honduras": {
+    "AVG": 75.87,
+    "Female": 78.14,
+    "Male": 73.57
+  },
+  "Hong Kong": {
+    "AVG": 85.29,
+    "Female": 88.17,
+    "Male": 82.38
+  },
+  "Hungary": {
+    "AVG": 77.31,
+    "Female": 80.66,
+    "Male": 73.78
+  },
+  "Iceland": {
+    "AVG": 83.52,
+    "Female": 84.9,
+    "Male": 82.15
+  },
+  "India": {
+    "AVG": 70.42,
+    "Female": 71.8,
+    "Male": 69.16
+  },
+  "Indonesia": {
+    "AVG": 72.32,
+    "Female": 74.64,
+    "Male": 70.12
+  },
+  "Iran": {
+    "AVG": 77.33,
+    "Female": 78.54,
+    "Male": 76.22
+  },
+  "Iraq": {
+    "AVG": 71.08,
+    "Female": 73.21,
+    "Male": 68.96
+  },
+  "Ireland": {
+    "AVG": 82.81,
+    "Female": 84.32,
+    "Male": 81.29
+  },
+  "Israel": {
+    "AVG": 83.49,
+    "Female": 84.91,
+    "Male": 81.98
+  },
+  "Italy": {
+    "AVG": 84.01,
+    "Female": 85.97,
+    "Male": 81.9
+  },
+  "Jamaica": {
+    "AVG": 74.88,
+    "Female": 76.6,
+    "Male": 73.17
+  },
+  "Japan": {
+    "AVG": 85.03,
+    "Female": 88.09,
+    "Male": 81.91
+  },
+  "Jordan": {
+    "AVG": 75.01,
+    "Female": 76.82,
+    "Male": 73.28
+  },
+  "Kazakhstan": {
+    "AVG": 73.9,
+    "Female": 77.97,
+    "Male": 69.55
+  },
+  "Kenya": {
+    "AVG": 67.47,
+    "Female": 69.87,
+    "Male": 65.04
+  },
+  "Kiribati": {
+    "AVG": 69.17,
+    "Female": 73.12,
+    "Male": 65
+  },
+  "Kuwait": {
+    "AVG": 75.85,
+    "Female": 77.06,
+    "Male": 75.09
+  },
+  "Kyrgyzstan": {
+    "AVG": 71.95,
+    "Female": 76.03,
+    "Male": 67.85
+  },
+  "Laos": {
+    "AVG": 68.89,
+    "Female": 70.79,
+    "Male": 67.04
+  },
+  "Latvia": {
+    "AVG": 75.73,
+    "Female": 80.37,
+    "Male": 70.81
+  },
+  "Lebanon": {
+    "AVG": 79.27,
+    "Female": 81.17,
+    "Male": 77.53
+  },
+  "Lesotho": {
+    "AVG": 55.65,
+    "Female": 58.9,
+    "Male": 52.52
+  },
+  "Liberia": {
+    "AVG": 65,
+    "Female": 66.48,
+    "Male": 63.54
+  },
+  "Libya": {
+    "AVG": 73.44,
+    "Female": 76.46,
+    "Male": 70.61
+  },
+  "Lithuania": {
+    "AVG": 76.41,
+    "Female": 81.7,
+    "Male": 70.97
+  },
+  "Luxembourg": {
+    "AVG": 82.79,
+    "Female": 84.76,
+    "Male": 80.83
+  },
+  "Macao": {
+    "AVG": 84.68,
+    "Female": 87.62,
+    "Male": 81.73
+  },
+  "Madagascar": {
+    "AVG": 68.21,
+    "Female": 69.92,
+    "Male": 66.53
+  },
+  "Malawi": {
+    "AVG": 65.62,
+    "Female": 68.77,
+    "Male": 62.45
+  },
+  "Malaysia": {
+    "AVG": 76.65,
+    "Female": 78.78,
+    "Male": 74.71
+  },
+  "Maldives": {
+    "AVG": 79.89,
+    "Female": 81.58,
+    "Male": 78.53
+  },
+  "Mali": {
+    "AVG": 60.54,
+    "Female": 61.39,
+    "Male": 59.69
+  },
+  "Malta": {
+    "AVG": 83.06,
+    "Female": 84.68,
+    "Male": 81.37
+  },
+  "Martinique": {
+    "AVG": 83.13,
+    "Female": 86.1,
+    "Male": 79.85
+  },
+  "Mauritania": {
+    "AVG": 65.57,
+    "Female": 67.24,
+    "Male": 63.88
+  },
+  "Mauritius": {
+    "AVG": 75.51,
+    "Female": 78.92,
+    "Male": 72.21
+  },
+  "Mayotte": {
+    "AVG": 79.85,
+    "Female": 83.24,
+    "Male": 76.62
+  },
+  "Mexico": {
+    "AVG": 75.41,
+    "Female": 78.17,
+    "Male": 72.62
+  },
+  "Micronesia": {
+    "AVG": 68.27,
+    "Female": 70.07,
+    "Male": 66.54
+  },
+  "Moldova": {
+    "AVG": 72.3,
+    "Female": 76.53,
+    "Male": 68.02
+  },
+  "Mongolia": {
+    "AVG": 70.53,
+    "Female": 74.79,
+    "Male": 66.43
+  },
+  "Montenegro": {
+    "AVG": 77.39,
+    "Female": 79.77,
+    "Male": 74.99
+  },
+  "Morocco": {
+    "AVG": 77.43,
+    "Female": 78.66,
+    "Male": 76.17
+  },
+  "Mozambique": {
+    "AVG": 62.13,
+    "Female": 64.95,
+    "Male": 59.05
+  },
+  "Myanmar": {
+    "AVG": 67.78,
+    "Female": 70.81,
+    "Male": 64.65
+  },
+  "Namibia": {
+    "AVG": 64.86,
+    "Female": 67.67,
+    "Male": 61.83
+  },
+  "Nepal": {
+    "AVG": 71.74,
+    "Female": 73.23,
+    "Male": 70.13
+  },
+  "Netherlands": {
+    "AVG": 82.78,
+    "Female": 84.35,
+    "Male": 81.2
+  },
+  "New Caledonia": {
+    "AVG": 78.16,
+    "Female": 80.89,
+    "Male": 75.61
+  },
+  "New Zealand": {
+    "AVG": 82.8,
+    "Female": 84.38,
+    "Male": 81.2
+  },
+  "Nicaragua": {
+    "AVG": 75.23,
+    "Female": 78.65,
+    "Male": 71.75
+  },
+  "Niger": {
+    "AVG": 63.62,
+    "Female": 64.89,
+    "Male": 62.41
+  },
+  "Nigeria": {
+    "AVG": 55.75,
+    "Female": 56.75,
+    "Male": 54.8
+  },
+  "North Korea": {
+    "AVG": 72.89,
+    "Female": 76.37,
+    "Male": 69.26
+  },
+  "North Macedonia": {
+    "AVG": 76.26,
+    "Female": 78.32,
+    "Male": 74.26
+  },
+  "Norway": {
+    "AVG": 82.94,
+    "Female": 84.78,
+    "Male": 81.11
+  },
+  "Oman": {
+    "AVG": 78.58,
+    "Female": 80.94,
+    "Male": 76.9
+  },
+  "Pakistan": {
+    "AVG": 67.79,
+    "Female": 68.9,
+    "Male": 66.77
+  },
+  "Panama": {
+    "AVG": 79.1,
+    "Female": 82.2,
+    "Male": 76.14
+  },
+  "Papua New Guinea": {
+    "AVG": 65.22,
+    "Female": 66.62,
+    "Male": 63.92
+  },
+  "Paraguay": {
+    "AVG": 74.59,
+    "Female": 76.78,
+    "Male": 72.55
+  },
+  "Peru": {
+    "AVG": 77.44,
+    "Female": 80.15,
+    "Male": 74.87
+  },
+  "Philippines": {
+    "AVG": 71.66,
+    "Female": 75.92,
+    "Male": 67.67
+  },
+  "Poland": {
+    "AVG": 79.27,
+    "Female": 82.98,
+    "Male": 75.51
+  },
+  "Portugal": {
+    "AVG": 82.65,
+    "Female": 85.28,
+    "Male": 79.79
+  },
+  "Puerto Rico": {
+    "AVG": 80.69,
+    "Female": 83.92,
+    "Male": 77.27
+  },
+  "Qatar": {
+    "AVG": 80.73,
+    "Female": 82.49,
+    "Male": 79.78
+  },
+  "Réunion": {
+    "AVG": 81.55,
+    "Female": 84.45,
+    "Male": 78.52
+  },
+  "Romania": {
+    "AVG": 76.5,
+    "Female": 79.91,
+    "Male": 73.13
+  },
+  "Russia": {
+    "AVG": 72.99,
+    "Female": 78.15,
+    "Male": 67.62
+  },
+  "Rwanda": {
+    "AVG": 70,
+    "Female": 72.16,
+    "Male": 67.75
+  },
+  "Saint Lucia": {
+    "AVG": 76.67,
+    "Female": 78.06,
+    "Male": 75.27
+  },
+  "Samoa": {
+    "AVG": 73.75,
+    "Female": 75.97,
+    "Male": 71.69
+  },
+  "Sao Tome & Principe": {
+    "AVG": 71.01,
+    "Female": 73.5,
+    "Male": 68.54
+  },
+  "Saudi Arabia": {
+    "AVG": 75.69,
+    "Female": 77.37,
+    "Male": 74.47
+  },
+  "Senegal": {
+    "AVG": 68.87,
+    "Female": 70.88,
+    "Male": 66.64
+  },
+  "Serbia": {
+    "AVG": 76.47,
+    "Female": 79.05,
+    "Male": 73.89
+  },
+  "Seychelles": {
+    "AVG": 73.74,
+    "Female": 77.71,
+    "Male": 70.26
+  },
+  "Sierra Leone": {
+    "AVG": 55.92,
+    "Female": 56.78,
+    "Male": 55.01
+  },
+  "Singapore": {
+    "AVG": 84.07,
+    "Female": 86.15,
+    "Male": 82.06
+  },
+  "Slovakia": {
+    "AVG": 78,
+    "Female": 81.35,
+    "Male": 74.59
+  },
+  "Slovenia": {
+    "AVG": 81.85,
+    "Female": 84.44,
+    "Male": 79.26
+  },
+  "Solomon Islands": {
+    "AVG": 73.38,
+    "Female": 75.31,
+    "Male": 71.6
+  },
+  "Somalia": {
+    "AVG": 58.34,
+    "Female": 60.11,
+    "Male": 56.62
+  },
+  "South Africa": {
+    "AVG": 64.88,
+    "Female": 68.42,
+    "Male": 61.46
+  },
+  "South Korea": {
+    "AVG": 83.5,
+    "Female": 86.42,
+    "Male": 80.46
+  },
+  "South Sudan": {
+    "AVG": 58.74,
+    "Female": 60.31,
+    "Male": 57.21
+  },
+  "Spain": {
+    "AVG": 83.99,
+    "Female": 86.68,
+    "Male": 81.27
+  },
+  "Sri Lanka": {
+    "AVG": 77.56,
+    "Female": 80.74,
+    "Male": 74.25
+  },
+  "St. Vincent & Grenadines": {
+    "AVG": 72.98,
+    "Female": 75.62,
+    "Male": 70.66
+  },
+  "State of Palestine": {
+    "AVG": 74.62,
+    "Female": 76.38,
+    "Male": 72.92
+  },
+  "Sudan": {
+    "AVG": 66.09,
+    "Female": 68.03,
+    "Male": 64.18
+  },
+  "Suriname": {
+    "AVG": 72.13,
+    "Female": 75.55,
+    "Male": 68.88
+  },
+  "Sweden": {
+    "AVG": 83.33,
+    "Female": 84.97,
+    "Male": 81.69
+  },
+  "Switzerland": {
+    "AVG": 84.25,
+    "Female": 86.02,
+    "Male": 82.42
+  },
+  "Syria": {
+    "AVG": 76.06,
+    "Female": 79.11,
+    "Male": 73.13
+  },
+  "Taiwan": {
+    "AVG": 81.04,
+    "Female": 83.64,
+    "Male": 78.49
+  },
+  "Tajikistan": {
+    "AVG": 71.76,
+    "Female": 74.11,
+    "Male": 69.5
+  },
+  "Tanzania": {
+    "AVG": 66.39,
+    "Female": 68.25,
+    "Male": 64.52
+  },
+  "Thailand": {
+    "AVG": 77.74,
+    "Female": 81.34,
+    "Male": 74.16
+  },
+  "Timor-Leste": {
+    "AVG": 70.18,
+    "Female": 72.36,
+    "Male": 68.14
+  },
+  "Togo": {
+    "AVG": 62.13,
+    "Female": 63.08,
+    "Male": 61.16
+  },
+  "Tonga": {
+    "AVG": 71.32,
+    "Female": 73.38,
+    "Male": 69.28
+  },
+  "Trinidad and Tobago": {
+    "AVG": 73.91,
+    "Female": 76.66,
+    "Male": 71.24
+  },
+  "Tunisia": {
+    "AVG": 77.36,
+    "Female": 79.34,
+    "Male": 75.37
+  },
+  "Turkey": {
+    "AVG": 78.45,
+    "Female": 81.21,
+    "Male": 75.57
+  },
+  "Turkmenistan": {
+    "AVG": 68.63,
+    "Female": 72.19,
+    "Male": 65.1
+  },
+  "U.S. Virgin Islands": {
+    "AVG": 81.17,
+    "Female": 83.52,
+    "Male": 78.64
+  },
+  "Uganda": {
+    "AVG": 64.38,
+    "Female": 66.67,
+    "Male": 61.99
+  },
+  "Ukraine": {
+    "AVG": 72.5,
+    "Female": 77.27,
+    "Male": 67.56
+  },
+  "United Arab Emirates": {
+    "AVG": 78.46,
+    "Female": 79.8,
+    "Male": 77.79
+  },
+  "United Kingdom": {
+    "AVG": 81.77,
+    "Female": 83.28,
+    "Male": 80.22
+  },
+  "United States": {
+    "AVG": 79.11,
+    "Female": 81.65,
+    "Male": 76.61
+  },
+  "Uruguay": {
+    "AVG": 78.43,
+    "Female": 81.88,
+    "Male": 74.75
+  },
+  "Uzbekistan": {
+    "AVG": 72.04,
+    "Female": 74.26,
+    "Male": 69.8
+  },
+  "Vanuatu": {
+    "AVG": 70.99,
+    "Female": 72.75,
+    "Male": 69.4
+  },
+  "Venezuela": {
+    "AVG": 72.34,
+    "Female": 76.25,
+    "Male": 68.59
+  },
+  "Vietnam": {
+    "AVG": 75.77,
+    "Female": 79.85,
+    "Male": 71.73
+  },
+  "Western Sahara": {
+    "AVG": 71.08,
+    "Female": 73.19,
+    "Male": 69.36
+  },
+  "Yemen": {
+    "AVG": 66.44,
+    "Female": 68.16,
+    "Male": 64.72
+  },
+  "Zambia": {
+    "AVG": 64.7,
+    "Female": 67.71,
+    "Male": 61.66
+  },
+  "Zimbabwe": {
+    "AVG": 62.16,
+    "Female": 63.66,
+    "Male": 60.39
+  }
+}
